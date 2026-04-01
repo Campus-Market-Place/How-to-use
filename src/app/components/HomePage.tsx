@@ -6,7 +6,7 @@ import React from 'react';
 
 export default function HomePage() {
   // Replace this with your actual Telegram bot link
-  const TELEGRAM_BOT_LINK = 'https://t.me/your_bot_username';
+  const TELEGRAM_BOT_LINK = 'https://t.me/Campus_Market_placebot';
 
   const handleExploreMarketplace = () => {
     window.open(TELEGRAM_BOT_LINK, '_blank');
